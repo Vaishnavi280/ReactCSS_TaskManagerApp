@@ -25,7 +25,6 @@ Open in Browser
 http://localhost:5173/
 
 Folder Structure:
-
 ├── public/                # Static files
 ├── src/                   # Source code
 │   ├── components/        # React components
@@ -36,6 +35,7 @@ Folder Structure:
 ├── package.json           # Project metadata
 ├── README.md              # Project documentation
 └── vite.config.js         # Vite configuration
+
 Future Enhancements:
 Task Deadlines: Add due dates for tasks.
 Drag and Drop: Enable drag-and-drop functionality for smoother task management.
